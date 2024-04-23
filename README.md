@@ -1,6 +1,7 @@
 # Description
 
-🏦 Online Banking App
+🏦 Online Banking App is a personal project created to practise Vanilla Javascript. In order to login please use the username: js and the password: 1111.
+You can send money to another user, e.g. to jp. You can also request a loan from the Bank as long as you have more than 10% of the amount of the loan in savings. You can also delete the account. Try to delete the user: js with the password 1111.
 
 ## Table of Contents
 
@@ -13,7 +14,6 @@
 
 # Features
 - Responsive design
-- Tailwind CSS
 - Vanilla JavaScript
   - Arrays
   - DOM manipulation
